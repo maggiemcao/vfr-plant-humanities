@@ -1,7 +1,14 @@
-I want to italicize this ***word***.
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-I want to italicize this __word and this one__.
+<param ve-config 
+title="What We Know Now: Tracing the Tamarack"    source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"   banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg" 
+height=100
+author="Hannah Hardenbergh"
+layout="vertical">
 
->This is a block quote. This is a block quote. This is a block quote. This is a block quote. This is a block quote. This is a block quote. 
+### Introduction
+One Ojibwe legend tells of a lone chickadee who sought shelter under a Tamarack tree (Larix laricina) in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, Wenabozho, punished the Tamarack.
+<param ve-image
+	   src="wc:Larix_sibirica_with_golden_foliage.jpg"
+	   capture=Tamarack tree needles turn a golden yellow in autumn">
 
-You can find the [Tamarack plant narrative](Q734085) on the [Plant Humanities Lab](https://lab.plant-humanities.org/tamarack/)
